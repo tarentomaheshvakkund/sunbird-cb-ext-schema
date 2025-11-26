@@ -375,6 +375,14 @@
         },
         "courseLinked": {
           "type": "string"
+        },
+        "preEventDocSetup": {
+          "type": "string",
+          "format": "url"
+        },
+        "postEventDocSetup": {
+          "type": "string",
+          "format": "url"
         }
     }
 }
